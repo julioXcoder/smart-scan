@@ -1,0 +1,8 @@
+{
+  "name": "Copy of SmartScan Marks App",
+  "description": "An OCR-powered application to scan student mark sheets, extract Student IDs and Marks, and export them to a CSV file. Designed for academic staff to streamline the marks entry process.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "prompt": ""
+}
